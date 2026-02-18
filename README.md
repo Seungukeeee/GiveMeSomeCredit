@@ -1,5 +1,7 @@
 # Give Me Some Credit Project
 ![Image](https://github.com/user-attachments/assets/38d6754a-4447-4c52-85ec-dab9dfd6cafc)
+<img width="806" height="700" alt="Image" src="https://github.com/user-attachments/assets/bce0dde2-9c05-4583-b68b-205ac8ad513a" />
+<img width="989" height="590" alt="Image" src="https://github.com/user-attachments/assets/2bc78bdc-7b16-4242-bada-99ddb37ccfe9" />
 This is an end-to-end machine learning project using the classic Kaggle "Give Me Some Credit" dataset.  
 The goal was to predict the probability of serious delinquency (default) in the next two years, using real-world, highly imbalanced tabular data.
 
